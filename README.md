@@ -276,6 +276,7 @@ _Sketch input using Canvas or SVG_
 - [typography](https://github.com/KyleAMathews/typography.js) - A powerful toolkit for building websites with beautiful typography.
 - [react-pulse-text](https://github.com/Kelsier90/React-Pulse-Text) - [demo/docs](https://kelsier90.github.io/React-Pulse-Text/) -  Allows you to animate the text of any property of another component.
 - [captcha-image](https://github.com/tpkahlon/captcha-image) - Allows you to generate a random captcha image with options.
+- [react-widgets](https://github.com/Due-Work/react-widgets) - Simplest way to integrate widgets like docs, wiki, knowledge base, live chat, user onboarding, customer feedback etc to your react project.
 
 ### Form Components
 
